@@ -1,0 +1,68 @@
+{
+  "id": "ac7672a0-2771-4d13-938e-9a9ba524635e",
+  "name": "QnA_function",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QnA_function-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d7216626-746b-41c6-a639-48aea46fae6b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "feature",
+          "value": "$feature",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn đang nói đến phần nào trong $domain vậy?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "24b8fd1d-c7fd-4b93-bc16-e40f43cce652",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "domain",
+          "value": "$domain",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn đang muốn tìm cách hoạt động của $feature trong mảng nào?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Vậy bạn đang muốn tìm nguyên lí hoạt động của $feature trong $domain đúng k?",
+            "Có phải bạn muốn biết nguyên lí của $feature trong $domain?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530255654,
+  "fallbackIntent": false,
+  "events": []
+}

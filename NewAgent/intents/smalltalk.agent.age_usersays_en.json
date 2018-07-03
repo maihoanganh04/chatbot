@@ -1,0 +1,96 @@
+[
+  {
+    "id": "d9f8c24d-2881-40df-94ab-4bc66bc76532",
+    "data": [
+      {
+        "text": "bạn bao nhiêu tuổi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173655
+  },
+  {
+    "id": "23db3acb-5858-435e-8715-a65ad9a5eefe",
+    "data": [
+      {
+        "text": "mày bao nhiêu tuổi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173655
+  },
+  {
+    "id": "f1e8a420-036b-428c-9fe5-a80287f98527",
+    "data": [
+      {
+        "text": "tuổi của bạn là bao nhiêu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173655
+  },
+  {
+    "id": "c412e69b-81e3-4081-93fb-60241f54b2b8",
+    "data": [
+      {
+        "text": "tuổi của m",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530173655
+  },
+  {
+    "id": "d6238a7b-41dc-4057-8547-fa8192ad8cb3",
+    "data": [
+      {
+        "text": "tôi muốn biết tuổi của bạn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173655
+  },
+  {
+    "id": "b3f71375-9c5b-41fb-a7b7-4e4467e68404",
+    "data": [
+      {
+        "text": "nói cho tôi tuổi của bạn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173655
+  },
+  {
+    "id": "fbea681e-3958-4508-826a-532209ec1a2f",
+    "data": [
+      {
+        "text": "mày ",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " tuổi à",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173655
+  }
+]

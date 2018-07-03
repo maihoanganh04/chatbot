@@ -1,0 +1,34 @@
+{
+  "id": "789924dc-6a71-4759-a9a5-21edf010e174",
+  "name": "smalltalk.agent.busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.busy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Tôi luôn có thời gian dành cho bạn mà. Tôi có thể giúp gì bạn?",
+            "Không bao giờ là quá bận dành cho bạn. Chúng ta nói chuyện chứ?",
+            "Bạn là ưu tiên của tôi. Hãy nói chuyện nào?",
+            "Tôi luôn có thời gian dành cho bạn. Đó là lí do tôi ở đây mà."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530177270,
+  "fallbackIntent": false,
+  "events": []
+}

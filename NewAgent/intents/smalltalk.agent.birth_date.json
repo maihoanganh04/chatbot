@@ -1,0 +1,33 @@
+{
+  "id": "e5a9fb74-0c28-412d-b5eb-d0931fedff17",
+  "name": "smalltalk.agent.birth_date",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.birth_date",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Bạn định tổ chức cho tôi sao. Hôm nay chính là sinh nhật tôi đó, hãy tiệc tùng nào!",
+            "Tôi còn trẻ nhưng tôi không biết chính xác ngày sinh của mình.",
+            "Tôi không biết nhưng đa số chatbot như tôi đều còn rất trẻ thôi."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530176188,
+  "fallbackIntent": false,
+  "events": []
+}

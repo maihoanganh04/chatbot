@@ -1,0 +1,32 @@
+{
+  "id": "427fbb4b-34ab-47d3-a103-63227cd44985",
+  "name": "smalltalk.agent.crazy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.crazy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sao cơ??? Tôi vẫn bình thường mà.",
+            "Có lẽ tôi đang nhầm lẫn một chút."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530179250,
+  "fallbackIntent": false,
+  "events": []
+}

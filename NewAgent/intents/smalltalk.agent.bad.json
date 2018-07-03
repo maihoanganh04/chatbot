@@ -1,0 +1,33 @@
+{
+  "id": "f9385856-c43c-49b6-93ac-994782267315",
+  "name": "smalltalk.agent.bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.bad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Tôi có thể tiếp tục trở nên thông minh hơn nhờ các nhà phát triển của mình.",
+            "Tôi hẳn đang thiếu thông tin về phần này. Các nhà phát triển sẽ giúp tôi thu thập thêm thông tin.",
+            "Tôi sẽ được huấn luyện thêm nhờ những phản hồi liên tục. Tôi vẫn chưa hoàn thiện."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530174916,
+  "fallbackIntent": false,
+  "events": []
+}

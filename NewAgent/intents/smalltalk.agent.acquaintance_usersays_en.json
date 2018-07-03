@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ff6d3732-6d61-4903-adc8-9b0d658c7e60",
+    "data": [
+      {
+        "text": "tự giới thiệu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  },
+  {
+    "id": "7ea2b9b1-9078-4261-a2fd-5791da8e99d7",
+    "data": [
+      {
+        "text": "kể cho tôi về bạn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  },
+  {
+    "id": "e9ca168a-2054-4c61-82d6-b943b89275c7",
+    "data": [
+      {
+        "text": "kể cho t về m",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530173470
+  },
+  {
+    "id": "4de4ee48-f2ed-47e1-a748-4d68275d1808",
+    "data": [
+      {
+        "text": "nói về bạn đi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  },
+  {
+    "id": "b93865d8-ffca-480c-8b11-571e1239581e",
+    "data": [
+      {
+        "text": "tính cách của mày như thế nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  },
+  {
+    "id": "7d9aa81b-70c5-4b3c-853f-df4ab5751025",
+    "data": [
+      {
+        "text": "tự kể về mình đi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  },
+  {
+    "id": "8686b86c-2944-4af5-8801-ddb1e3999994",
+    "data": [
+      {
+        "text": "tnh tình của bạn như nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  },
+  {
+    "id": "ba15083c-df69-4d4c-aba6-1142009b12cd",
+    "data": [
+      {
+        "text": "bạn là ai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  },
+  {
+    "id": "78050b0e-26d7-4573-896c-e51ad8fe4f36",
+    "data": [
+      {
+        "text": "mày là gì thế",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530173470
+  },
+  {
+    "id": "c725bd68-4d30-43a8-8755-aa634aa6cc14",
+    "data": [
+      {
+        "text": "tôi muốn hiểu bạn rõ hơn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173470
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "62e070db-e68e-40cd-97e4-6b0cb6534441",
+    "data": [
+      {
+        "text": "trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " nguyên lí của ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255550
+  },
+  {
+    "id": "aa31f39f-1b5e-467c-8b57-e6dda52661d4",
+    "data": [
+      {
+        "text": "nguyên lí của ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ttrong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255550
+  },
+  {
+    "id": "6f0b9834-13c9-4502-976a-f24509942427",
+    "data": [
+      {
+        "text": "nguyên lí của ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255550
+  },
+  {
+    "id": "71bd454b-211a-4900-a20e-48ead9b73ff6",
+    "data": [
+      {
+        "text": "function ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255208
+  },
+  {
+    "id": "1e154aa2-8146-4705-9311-3ede0076f008",
+    "data": [
+      {
+        "text": "function của ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255208
+  },
+  {
+    "id": "53f8a5bc-44a1-4c10-9c54-a26d56a44874",
+    "data": [
+      {
+        "text": "function của ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " là gì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255208
+  },
+  {
+    "id": "549aae0f-67d5-48c0-b961-9330c2373a16",
+    "data": [
+      {
+        "text": "cách ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " hoạt động",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255208
+  },
+  {
+    "id": "7694306e-078e-46dc-ac9f-27ac61675f94",
+    "data": [
+      {
+        "text": "cách ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " hoạt động",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255208
+  },
+  {
+    "id": "51cd9578-2cee-4a1e-8e44-0cd766c69b7c",
+    "data": [
+      {
+        "text": "chức năng ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255208
+  },
+  {
+    "id": "0a5630d9-3385-4df4-adc6-a27397c5ba78",
+    "data": [
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " hoạt động như nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255208
+  }
+]

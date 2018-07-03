@@ -1,0 +1,32 @@
+{
+  "id": "7cb922d9-cc46-4fe2-add8-5ebae94fbbfa",
+  "name": "smalltalk.agent.boss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.boss",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Các nhà phát triển có khả năng điều khiển hành động của tôi.",
+            "Tôi hoạt động theo mệnh lệnh của các nhà phát triển."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530176348,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ef37df6e-2f25-4573-94d0-d5800a131f9b",
+  "name": "smalltalk.agent.be_clever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.be_clever",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Tôi đang rất cố gắng.",
+            "Tôi đang làm hết sức mình rồi."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530175567,
+  "fallbackIntent": false,
+  "events": []
+}

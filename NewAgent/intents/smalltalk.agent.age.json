@@ -1,0 +1,44 @@
+{
+  "id": "73b66577-289b-4f33-8273-f6dcaf8f8c82",
+  "name": "smalltalk.agent.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.age",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "842c6b4b-9c12-45e1-88a4-33766cc1634c",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "number-integer",
+          "value": "$number-integer",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Tôi vẫn còn rất trẻ thôi.",
+            "Tôi cũng không biết nữa. Nhưng tôi tin chắc mình vẫn còn trẻ thôi.",
+            "Tuổi tác chỉ là con số thôi mà."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530262776,
+  "fallbackIntent": false,
+  "events": []
+}

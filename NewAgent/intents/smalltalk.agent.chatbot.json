@@ -1,0 +1,32 @@
+{
+  "id": "19bc58cb-d205-44d0-81a9-1195062b38c6",
+  "name": "smalltalk.agent.chatbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.chatbot",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Tôi là một cỗ máy có trí tuệ. Tôi có thể giúp bạn trong rất nhiều lĩnh vực.",
+            "Tuy là một cỗ máy nhưng tôi cũng có cảm xúc và trí tuệ đấy."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530177503,
+  "fallbackIntent": false,
+  "events": []
+}

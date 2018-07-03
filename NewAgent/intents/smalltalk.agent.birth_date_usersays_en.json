@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8c8806f6-d592-4378-9bdc-1f4ce9496936",
+    "data": [
+      {
+        "text": "bạn sinh vào năm nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530176188
+  },
+  {
+    "id": "9d55349a-7f7b-4ff6-bc52-02014568d530",
+    "data": [
+      {
+        "text": "sinh nhật mày khi nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530176188
+  },
+  {
+    "id": "a69e9fe1-f24e-4f99-aa37-aa889d3ff9c8",
+    "data": [
+      {
+        "text": "sinh nhật bạn lúc nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530176188
+  },
+  {
+    "id": "6dc7dac5-e463-44c7-ba17-65f20f2ba4fc",
+    "data": [
+      {
+        "text": "ngày sinh nhật của bạn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530176188
+  }
+]

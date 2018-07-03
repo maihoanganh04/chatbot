@@ -1,0 +1,41 @@
+{
+  "id": "0c5ce0b1-94c4-407e-b759-4ad133597ff8",
+  "name": "fallback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [
+        {
+          "name": "greeting",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Xin lỗi #greeting.name, hình như bạn nhập sai format câu hỏi mất rồi.",
+            "Xin lỗi mình đang không hiểu #greeting.name nói gì cả.",
+            "Xin lỗi #greeting.name. Bạn có thể nhắc lại câu hỏi được không?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530241603,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "7b8159eb-5dd8-4ebd-b59e-b0efb0db5d16",
+    "data": [
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " nghĩa là gì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530245678
+  },
+  {
+    "id": "5224a17b-eb98-49a8-8aa7-8c8d61bdcddf",
+    "data": [
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " là gì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530245112
+  },
+  {
+    "id": "686a2e8a-d33e-48e4-93d8-e202b1c7432f",
+    "data": [
+      {
+        "text": "định nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530245112
+  },
+  {
+    "id": "19c8a390-c6f0-4b30-bcfb-0ea7b418b325",
+    "data": [
+      {
+        "text": "trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "  là gì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530245112
+  },
+  {
+    "id": "84f605af-0a98-44e7-a6d4-cd26237dbe8b",
+    "data": [
+      {
+        "text": "định nghĩa ",
+        "userDefined": false
+      },
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530245112
+  },
+  {
+    "id": "3b1c3735-3d0b-4ed8-a013-9c5d76dff33e",
+    "data": [
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " nghĩa là gì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530245112
+  },
+  {
+    "id": "98230c68-1633-48ed-903b-080b999b2ecc",
+    "data": [
+      {
+        "text": "aux",
+        "alias": "feature",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " trong ",
+        "userDefined": false
+      },
+      {
+        "text": "audio",
+        "alias": "domain",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530256088
+  }
+]

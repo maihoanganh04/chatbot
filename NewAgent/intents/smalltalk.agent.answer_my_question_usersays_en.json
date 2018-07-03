@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4f416a82-563d-48e3-ae8a-12253236e175",
+    "data": [
+      {
+        "text": "tôi muốn hỏi về",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530255969
+  },
+  {
+    "id": "812304e0-bc72-4239-a70a-f4a03b89d989",
+    "data": [
+      {
+        "text": "giúp tôi trả lời câu hỏi này với",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  },
+  {
+    "id": "cafc632c-2c65-47cc-96f9-6883c6eab968",
+    "data": [
+      {
+        "text": "hey bot, giúp tao trả lời câu hỏi này",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  },
+  {
+    "id": "2e961b3b-5daf-4154-b0ea-acb9d9cc38df",
+    "data": [
+      {
+        "text": "trả lời mau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  },
+  {
+    "id": "b6b78eef-4bc4-4afd-9cec-cdd879211130",
+    "data": [
+      {
+        "text": "trả lời đi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  },
+  {
+    "id": "91bdcebb-ec61-490f-9a08-04d6bba9eef0",
+    "data": [
+      {
+        "text": "bạn có thể giúp tôi trả lời câu hỏi này không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  },
+  {
+    "id": "77a7f399-f5af-4fc7-95e7-b0bf888f969e",
+    "data": [
+      {
+        "text": "trả lời tao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  },
+  {
+    "id": "ca85d809-5010-4526-8ea9-f6194766d358",
+    "data": [
+      {
+        "text": "trả lời",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  },
+  {
+    "id": "598e3592-fd7e-4b70-b731-1c32779fa87f",
+    "data": [
+      {
+        "text": "trả lời tôi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530174218
+  }
+]

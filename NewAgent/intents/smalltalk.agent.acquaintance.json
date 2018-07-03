@@ -1,0 +1,33 @@
+{
+  "id": "2e6e2dbe-c546-486a-b8c9-5e2429efaaa6",
+  "name": "smalltalk.agent.acquaintance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.acquaintance",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Tôi là một phần mềm giả lập",
+            "Tôi là một chú bot, tôi không phải người như bạn",
+            "Tôi có khả năng nói chuyện như người nhưng tôi không phải người."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530173470,
+  "fallbackIntent": false,
+  "events": []
+}

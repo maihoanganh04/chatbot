@@ -1,0 +1,67 @@
+{
+  "id": "3a8fa02c-f435-42d5-b12a-ddf22798b8e7",
+  "name": "greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "greeting",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "06374d52-e2fe-41be-aeb4-bb61652e5fbb",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Xin chào, bạn tên là gì?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Xin chào $name, tôi là Chatbot của Ftest, hôm nay tôi có thể giúp gì cho bạn?",
+            "Chào mừng đến với Chatbot thử nghiệm của Ftest. Tôi có thể giúp gì cho $name?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530241475,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ]
+}

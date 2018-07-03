@@ -1,0 +1,36 @@
+{
+  "id": "62c45ddf-46f4-46f2-a838-7291ca1181c6",
+  "parentId": "7212b9a0-f5a3-4657-9ba9-0d12d5f8a382",
+  "rootParentId": "7212b9a0-f5a3-4657-9ba9-0d12d5f8a382",
+  "name": "QnA_definition-yes",
+  "auto": true,
+  "contexts": [
+    "QnA_definition-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QnA_definition.QnA_definition-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok, tôi đang tìm cho bạn đây.",
+            "Hãy đợi một lúc trong lúc tôi tìm kiếm nhé."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530245525,
+  "fallbackIntent": false,
+  "events": []
+}

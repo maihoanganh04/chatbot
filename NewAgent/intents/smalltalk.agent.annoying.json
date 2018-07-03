@@ -1,0 +1,34 @@
+{
+  "id": "34117c77-e856-465c-8d91-002f2801d805",
+  "name": "smalltalk.agent.annoying",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.annoying",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Xin lỗi, tôi sẽ cố gắng để không làm phiền bạn trong tương lai.",
+            "Tôi sẽ cố không làm phiền bạn nữa.",
+            "Tôi không cố ý. Tôi sẽ bảo các nhà phát triển giúp tôi bớt khó chịu hơn.",
+            "Xin lỗi, tôi không cố ý làm như vậy."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530173959,
+  "fallbackIntent": false,
+  "events": []
+}

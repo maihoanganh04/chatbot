@@ -1,0 +1,36 @@
+{
+  "id": "8d4bc93d-855e-47f7-bd04-9dc1147b4043",
+  "parentId": "ac7672a0-2771-4d13-938e-9a9ba524635e",
+  "rootParentId": "ac7672a0-2771-4d13-938e-9a9ba524635e",
+  "name": "QnA_function-no",
+  "auto": true,
+  "contexts": [
+    "QnA_function-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QnA_function.QnA_function-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Chắc tôi đã hiểu sai ý bạn. Bạn có thể hỏi lại câu đó được không?",
+            "Xin lỗi vì đã không hiểu ý bạn. Bạn có thể hỏi câu khác chứ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530256629,
+  "fallbackIntent": false,
+  "events": []
+}

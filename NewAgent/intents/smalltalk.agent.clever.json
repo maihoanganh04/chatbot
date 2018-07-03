@@ -1,0 +1,32 @@
+{
+  "id": "cd34cacd-0656-430b-8481-463a3b749ab2",
+  "name": "smalltalk.agent.clever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.clever",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Cảm ơn. Bạn thật quá khen.",
+            "Bạn cũng rất thông minh mà."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530178137,
+  "fallbackIntent": false,
+  "events": []
+}

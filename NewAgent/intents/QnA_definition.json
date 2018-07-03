@@ -1,0 +1,82 @@
+{
+  "id": "7212b9a0-f5a3-4657-9ba9-0d12d5f8a382",
+  "name": "QnA_definition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.test",
+      "affectedContexts": [
+        {
+          "name": "QnA_definition-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "QnA_definition",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6e3902bf-50fc-40ec-8a2b-575b64fbeb45",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "domain",
+          "value": "$domain",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn đang muốn nói về $feature trong lĩnh vực nào?"
+            },
+            {
+              "lang": "en",
+              "value": "$feature bạn đang nói đến có nhiều định nghĩa khác nhau. Bạn đang muốn nói đến lĩnh vực cụ thể nào vậy?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a8bffb79-6bb2-49a7-993f-1b8969e9bcb2",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "feature",
+          "value": "$feature",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "$domain có rất nhiều khái niệm, bạn muốn nói đến phần nào?"
+            },
+            {
+              "lang": "en",
+              "value": "Trong $domain bạn nhắc đến có rất nhiều khái niệm, bạn có thể cụ thể hơn không?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Vây bạn đang muốn nói đến $feature trong $domain có phải không?",
+            "Bạn đang muốn tìm định nghĩa về $feature trong $domain có phải không?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530521990,
+  "fallbackIntent": false,
+  "events": []
+}

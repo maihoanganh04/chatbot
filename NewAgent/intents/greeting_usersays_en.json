@@ -1,0 +1,119 @@
+[
+  {
+    "id": "9d14fe94-e073-4416-b7fd-6f16b487e1fe",
+    "data": [
+      {
+        "text": "Hi bot, ",
+        "userDefined": false
+      },
+      {
+        "text": "Hoàng Anh",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " đây",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530239945
+  },
+  {
+    "id": "e88c165e-8202-4897-ab7a-ef2a36875e56",
+    "data": [
+      {
+        "text": "Chào bot, tôi là ",
+        "userDefined": false
+      },
+      {
+        "text": "Hoàng Anh",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530239945
+  },
+  {
+    "id": "5b498077-d597-43be-b96e-e5059d66aec9",
+    "data": [
+      {
+        "text": "chào bot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529994952
+  },
+  {
+    "id": "25ce9612-0ff9-4748-97fc-4d2044fc1f2b",
+    "data": [
+      {
+        "text": "hi bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529994952
+  },
+  {
+    "id": "9d6277a0-a18d-4784-aa97-c1772b04c8fc",
+    "data": [
+      {
+        "text": "xin chào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529994952
+  },
+  {
+    "id": "13b39855-fa3d-46fc-9acb-f30dccd7f5bb",
+    "data": [
+      {
+        "text": "chào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529994952
+  },
+  {
+    "id": "8be140cb-e580-4060-bf76-7af0b0cc59e9",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529994952
+  },
+  {
+    "id": "3173e8b6-701f-4e5a-a978-7ae45f3ced8e",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529994952
+  }
+]

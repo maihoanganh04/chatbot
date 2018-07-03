@@ -1,0 +1,36 @@
+{
+  "id": "ce2030ec-a946-4a7f-964f-bde29e2a68fe",
+  "parentId": "7212b9a0-f5a3-4657-9ba9-0d12d5f8a382",
+  "rootParentId": "7212b9a0-f5a3-4657-9ba9-0d12d5f8a382",
+  "name": "QnA_definition-no",
+  "auto": true,
+  "contexts": [
+    "QnA_definition-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QnA_definition.QnA_definition-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ồ xin lỗi, vậy chắc tôi hiểu sai rồi, bạn có thể hỏi lại không?",
+            "Bạn có thể hỏi lại câu hỏi một lần nữa không?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530246378,
+  "fallbackIntent": false,
+  "events": []
+}

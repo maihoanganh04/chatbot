@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32a0a28a-3993-4acb-ba10-a7de656f759b",
+    "data": [
+      {
+        "text": "bạn làm phiền tôi đấy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173959
+  },
+  {
+    "id": "57fc71ca-c6ab-49e8-99bb-7cf79ef53f31",
+    "data": [
+      {
+        "text": "mày khó chịu thật đấy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173959
+  },
+  {
+    "id": "b571df06-5f70-4cae-b174-2dc7df2cae96",
+    "data": [
+      {
+        "text": "bạn khó chịu quá",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173959
+  },
+  {
+    "id": "9e19bb25-257a-4221-b4bf-564a3113de8d",
+    "data": [
+      {
+        "text": "mày thật phiền phức quá",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530173959
+  }
+]

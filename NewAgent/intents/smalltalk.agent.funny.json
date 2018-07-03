@@ -1,0 +1,34 @@
+{
+  "id": "79deb4a2-4820-436d-b9de-af7184e955ed",
+  "name": "smalltalk.agent.funny",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.funny",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks.",
+            "Glad you think I\u0027m funny.",
+            "I like it when people laugh."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578423,
+  "fallbackIntent": false,
+  "events": []
+}

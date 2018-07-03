@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f28f87a6-1458-41a5-82ac-4ba967a2898a",
+    "data": [
+      {
+        "text": "bạn có đang bận không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530177270
+  },
+  {
+    "id": "3af0f18c-d6c7-49a9-874b-b04f7de36b29",
+    "data": [
+      {
+        "text": "bạn đang làm gì thế",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530177270
+  },
+  {
+    "id": "281f64c3-0ec3-4581-afeb-f099a699938c",
+    "data": [
+      {
+        "text": "bạn có đang bận lắm không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530177270
+  },
+  {
+    "id": "6a0e46de-2743-44d3-8d76-a0485d0f2aff",
+    "data": [
+      {
+        "text": "bạn đang làm việc à",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530177270
+  },
+  {
+    "id": "40185735-3fb0-4e29-9148-8ad8cfb100c0",
+    "data": [
+      {
+        "text": "dạo này bạn có bận không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530177270
+  }
+]
